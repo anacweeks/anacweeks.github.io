@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 I teach classes related to comparative politics, gender, and research methods at the University of Bath. I am currently on sabbatical until the end of January 2025.
