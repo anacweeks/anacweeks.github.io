@@ -10,7 +10,7 @@ nav_order: 3
 
 Do gender quota laws – policies that mandate women's inclusion on parties' candidate slates – affect policy outcomes? [Making Gender Salient](https://www.bath.ac.uk/departments/department-of-politics-languages-international-studies/) tackles this crucial question by offering a new theory to understand when and how gender quota laws impact policy. Drawing on cross-national data from high-income democracies and a mixed-methods research design, the book argues that quotas lead to policy change for issues characterized by a gender gap in preferences, especially if these issues deviate from the usual left/right party policy divide. The book focuses on one such issue, work-family policies, and finds that quotas shift work-family policies in the direction of gender equality. Substantive chapters show that quotas make gender more salient by giving women louder voices within parties, providing access to powerful ministerial roles, and encouraging male party leaders to compete on previously marginalized issues. The book concludes that quotas are one important way of facilitating congruence between women's policy preferences and actual policy outcomes.
 
-![My Book Cover](/assets/img/book_pic.jpg)
+<img src="/assets/img/book_pic.jpg" alt="My Book Cover" style="width:60%; display:block; margin:auto;">
 
 Want to know more about the book? You can read a [blog](https://blogs.bath.ac.uk/iprblog/2022/10/19/how-gender-quotas-broaden-the-political-agenda/), watch a [video](https://youtu.be/tjzPkb53b18) of the book launch, or listen to a [podcast](https://soundcloud.com/uniofbath/making-gender-salient-from-gender-quota-laws-to-policy?in=uniofbath/sets/institute-for-policy-research&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 
