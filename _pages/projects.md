@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-Do gender quota laws – policies that mandate women's inclusion on parties' candidate slates – affect policy outcomes? [Making Gender Salient](https://www.bath.ac.uk/departments/department-of-politics-languages-international-studies/) tackles this crucial question by offering a new theory to understand when and how gender quota laws impact policy. Drawing on cross-national data from high-income democracies and a mixed-methods research design, the book argues that quotas lead to policy change for issues characterized by a gender gap in preferences, especially if these issues deviate from the usual left/right party policy divide. The book focuses on one such issue, work-family policies, and finds that quotas shift work-family policies in the direction of gender equality. Substantive chapters show that quotas make gender more salient by giving women louder voices within parties, providing access to powerful ministerial roles, and encouraging male party leaders to compete on previously marginalized issues. The book concludes that quotas are one important way of facilitating congruence between women's policy preferences and actual policy outcomes.
+Do gender quota laws – policies that mandate women's inclusion on parties' candidate slates – affect policy outcomes? [Making Gender Salient](https://www.cambridge.org/core/books/making-gender-salient/2D3D592FC6C6B1182203FAA84149E09D#fndtn-information) tackles this crucial question by offering a new theory to understand when and how gender quota laws impact policy. Drawing on cross-national data from high-income democracies and a mixed-methods research design, the book argues that quotas lead to policy change for issues characterized by a gender gap in preferences, especially if these issues deviate from the usual left/right party policy divide. The book focuses on one such issue, work-family policies, and finds that quotas shift work-family policies in the direction of gender equality. Substantive chapters show that quotas make gender more salient by giving women louder voices within parties, providing access to powerful ministerial roles, and encouraging male party leaders to compete on previously marginalized issues. The book concludes that quotas are one important way of facilitating congruence between women's policy preferences and actual policy outcomes.
 
 <img src="/assets/img/book_pic.jpg" alt="My Book Cover" style="width:60%; display:block; margin:auto;">
 
@@ -24,10 +24,10 @@ Endorsements
 
 Reviews
 
-[Social Forces 2023](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1093%2Fsf%2Fsoad056&sa=D)
+[Social Forces 2023](https://doi.org/10.1093/sf/soad056)
 
-[Perspectives on Politics 2023](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1017%2FS1537592723000373&sa=D)
+[Perspectives on Politics 2023](https://doi.org/10.1017/S1537592723000373)
 
-[Politics & Gender 2023](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1017%2FS1743923X23000570&sa=D)
+[Politics & Gender 2023](https://doi.org/10.1017/S1743923X23000570)
 
-[Political Science Quarterly 2024](https://www.google.com/url?q=https%3A%2F%2Facademic.oup.com%2Fpsq%2Fadvance-article%2Fdoi%2F10.1093%2Fpsquar%2Fqqae027%2F7644740&sa=D)
+[Political Science Quarterly 2024](https://academic.oup.com/psq/advance-article/doi/10.1093/psquar/qqae027/7644740)
