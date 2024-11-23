@@ -25,5 +25,3 @@ I have been honored to receive several awards for my research, including the [CE
 Other projects I am excited to be working on now explore the role of women and gender in populist radical right parties, the rise of femonationalism, public support for gender-egalitarian policies, and the impacts of gender quota laws on women's presence in cabinets worldwide.
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=YRH8cOoAAAAJ&hl=en).
-
-My CV is [here]{Weeks_CV_112024.pdf}.
