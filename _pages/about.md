@@ -26,4 +26,4 @@ Other projects I am excited to be working on now explore the role of women and g
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=YRH8cOoAAAAJ&hl=en).
 
-My CV is here.
+My CV is [here]{Weeks_CV_112024.pdf}.
