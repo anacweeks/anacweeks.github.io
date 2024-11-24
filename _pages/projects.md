@@ -16,8 +16,7 @@ Want to know more about the book? You can read a [blog](https://blogs.bath.ac.uk
 
 You can also read my interview about the book in the 2024 APSA Comparative Politics section [newsletter](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2024/08/01-APSA-CP_Newsletter_June_2024.pdf) (for Gregory Luebbert Prize Honorable Mentions).
 
-
-Endorsements
+**Endorsements**
 
 “This must-read monograph masterfully tackles a central question for contemporary gender and politics scholars and policy activists: do electoral gender quotas affect policy outcomes? With an impressive mix of quantitative and qualitative evidence, Ana Catalano Weeks convincingly outlines when quotas will, and will not, lead to policy change and makes important contributions to the research on gender and politics, European politics, and comparative public policy.”  -- Diana Z. O'Brien, Albert Thomas Associate Professor of Political Science, Rice University
 
@@ -25,7 +24,7 @@ Endorsements
 
 “We now know a good deal about the effectiveness of quota laws, but their impact on policy is less well understood. Making Gender Salient addresses this significant lacuna in our knowledge using public opinion data to gauge women’s interests and explores the extent to which they are better represented when gender quotas for national legislatures are in place. A combination of state-of-the-art comparative methods and rigorous contextual insight demonstrates the crucial role quotas can play in politically empowering women. It is an essential read for scholars of political representation and gender and politics.” -- Rosie Campbell, Professor and Director of the Global Institute for Women’s Leadership and Professor of Politics, King’s College London
 
-Reviews
+**Reviews**
 
 [Social Forces 2023](https://doi.org/10.1093/sf/soad056)
 
