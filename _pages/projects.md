@@ -14,6 +14,9 @@ Do gender quota laws – policies that mandate women's inclusion on parties' can
 
 Want to know more about the book? You can read a [blog](https://blogs.bath.ac.uk/iprblog/2022/10/19/how-gender-quotas-broaden-the-political-agenda/), watch a [video](https://youtu.be/tjzPkb53b18) of the book launch, or listen to a [podcast](https://soundcloud.com/uniofbath/making-gender-salient-from-gender-quota-laws-to-policy?in=uniofbath/sets/institute-for-policy-research&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 
+You can also read my interview about the book in the 2024 APSA Comparative Politics section [newsletter](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2024/08/01-APSA-CP_Newsletter_June_2024.pdf) (for Gregory Luebbert Prize Honorable Mentions).
+
+
 Endorsements
 
 “This must-read monograph masterfully tackles a central question for contemporary gender and politics scholars and policy activists: do electoral gender quotas affect policy outcomes? With an impressive mix of quantitative and qualitative evidence, Ana Catalano Weeks convincingly outlines when quotas will, and will not, lead to policy change and makes important contributions to the research on gender and politics, European politics, and comparative public policy.”  -- Diana Z. O'Brien, Albert Thomas Associate Professor of Political Science, Rice University

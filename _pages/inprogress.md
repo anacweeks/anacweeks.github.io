@@ -9,7 +9,7 @@ nav_order: 4
 
 Helgøy, Anna Nordnes and Ana Catalano Weeks. "The Influence of Mental Load Priming on Men’s and Women’s Intentions to Participate in Public Life." Forthcoming, British Journal of Political Science.
 
-Weeks, Ana Catalano and Leah Ruppanner. "A Typology of US Parents' Mental Loads: Core and Episodic Cognitive Labor." Accepted, Journal of Marriage and Family. 
+Weeks, Ana Catalano and Leah Ruppanner. "A Typology of US Parents' Mental Loads: Core and Episodic Cognitive Labor." Accepted, Journal of Marriage and Family.
 
 "The Political Consequences of the Mental Load." Working paper. Revise & resubmit.      
 2023 Women, Gender, and Politics Research Section Award for best paper presented at 2022 APSA annual meeting

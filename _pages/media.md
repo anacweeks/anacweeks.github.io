@@ -6,7 +6,7 @@ description: You can read about my work, or interviews I have given, in the foll
 nav: true
 nav_order: 6
 ---
-*Interviews and media coverage*
+**Interviews and media coverage**
 
 Big Careers, Small Children Podcast. [Episode 168: Dr. Ana Catalano Weeks - Managing Mental Load While Balancing Career and Parenthood](https://player.captivate.fm/episode/7936fd43-640f-4fe0-9a33-95dae1cee5c3). 14 March 2024.
 
@@ -30,7 +30,7 @@ Saini, Valentina. Gli Stati Generali. [Femminismo, Un'Idea Che Tenta I Progressi
 
 Proudfoot, Shannon. Macleans. [Why Male Political Leaders Pursue Gender Quota Laws](https://macleans.ca/politics/why-male-political-leaders-pursue-gender-quota-laws/). 25 June 2018.
 
-*Blogs I've written*
+**Blogs I've written**
 
 Hilde Coffé, Sparsha Saha and Ana Catalano Weeks. "[Do voters support “gender parity” more than “gender quotas”?](https://blogs.lse.ac.uk/europpblog/2024/10/03/do-voters-support-gender-parity-more-than-gender-quotas/)"  2024. LSE European Politics and Policy Blog. 3 October.
 
