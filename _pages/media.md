@@ -6,6 +6,7 @@ description: You can read about my work, or interviews I have given, in the foll
 nav: true
 nav_order: 6
 ---
+*Interviews and media coverage*
 
 Big Careers, Small Children Podcast. [Episode 168: Dr. Ana Catalano Weeks - Managing Mental Load While Balancing Career and Parenthood](https://player.captivate.fm/episode/7936fd43-640f-4fe0-9a33-95dae1cee5c3). 14 March 2024.
 
@@ -29,4 +30,16 @@ Saini, Valentina. Gli Stati Generali. [Femminismo, Un'Idea Che Tenta I Progressi
 
 Proudfoot, Shannon. Macleans. [Why Male Political Leaders Pursue Gender Quota Laws](https://macleans.ca/politics/why-male-political-leaders-pursue-gender-quota-laws/). 25 June 2018.
 
-I also post about gender and politics at bluesky @anacweeks.bsky.social and LinkedIn www.linkedin.com/in/anacatalano
+*Blogs I've written*
+
+Hilde Coffé, Sparsha Saha and Ana Catalano Weeks. "[Do voters support “gender parity” more than “gender quotas”?](https://blogs.lse.ac.uk/europpblog/2024/10/03/do-voters-support-gender-parity-more-than-gender-quotas/)"  2024. LSE European Politics and Policy Blog. 3 October.
+
+Weeks, Ana Catalano. "[How Gender Quotas Broaden the Political Agenda.](https://blogs.bath.ac.uk/iprblog/2022/10/19/how-gender-quotas-broaden-the-political-agenda/)" 2022. University of Bath Institute for Policy Research Blog and CUP 1584 Blog. 19 October.
+
+Weeks, Ana Catalano and Audrey Latura. "[How Corporate Board Quotas Influence Gender Equality Policies within Companies.](https://blogs.lse.ac.uk/europpblog/2022/07/07/how-corporate-board-quotas-influence-gender-equality-policies-within-companies/)" 2022. LSE European Politics and Policy Blog. 7 July.
+
+Weeks, Ana Catalano, Bonnie M. Meguid, Miki Caul Kittilson, and Hilde Coffé. "[How radical right populist parties use the representation of women as an electoral tool.](https://blogs.lse.ac.uk/europpblog/2022/04/04/how-radical-right-populist-parties-use-the-representation-of-women-as-an-electoral-tool/)" 2022. LSE European Politics and Policy Blog. 4 April.
+
+Weeks, Ana Catalano and Sparsha Saha. “[Shifting Norms on Gender and Leadership: Are Ambitious Women Punished in Politics?](https://blogs.lse.ac.uk/politicsandpolicy/ambitious-women-politics/)” 2020. LSE British Politics and Policy Blog. 25 September.
+
+*I also post about gender and politics at [bluesky](https://bsky.app/profile/anacweeks.bsky.social) and [LinkedIn](www.linkedin.com/in/anacatalano).*
