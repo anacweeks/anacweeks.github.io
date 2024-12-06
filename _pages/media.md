@@ -32,6 +32,8 @@ Proudfoot, Shannon. Macleans. [Why Male Political Leaders Pursue Gender Quota La
 
 **Blogs I've written**
 
+Barnes, Tiffany, Giulia Venturini and Ana Catalano Weeks. "[Gender Quota Laws Increase the Share of Women in Cabinets](https://www.genderontheballot.org/gender-quota-laws-increase-the-share-of-women-in-cabinets/)" 2024. Gender on the Ballot Blog, American University. 2 December.
+
 Hilde Coffé, Sparsha Saha and Ana Catalano Weeks. "[Do voters support “gender parity” more than “gender quotas”?](https://blogs.lse.ac.uk/europpblog/2024/10/03/do-voters-support-gender-parity-more-than-gender-quotas/)"  2024. LSE European Politics and Policy Blog. 3 October.
 
 Weeks, Ana Catalano. "[How Gender Quotas Broaden the Political Agenda.](https://blogs.bath.ac.uk/iprblog/2022/10/19/how-gender-quotas-broaden-the-political-agenda/)" 2022. University of Bath Institute for Policy Research Blog and CUP 1584 Blog. 19 October.
