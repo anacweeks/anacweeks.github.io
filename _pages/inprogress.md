@@ -16,7 +16,7 @@ Weeks, Ana Catalano and Leah Ruppanner. "A Typology of US Parents' Mental Loads:
 
 “The New Defenders of Gender Equality? The Representation of Women's Interests in Populist Radical Right Parties.” Revise & resubmit (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé).
 
-"Gender Quota Laws and Women in Cabinets." Working paper (with Tiffany Barnes and Giulia Venturini). Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577
+"Gender Quota Laws and Women in Cabinets." Working paper (with Tiffany Barnes and Giulia Venturini). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
 
 "Thinly Veiled: The Use of Femonationalist Speech in European Parliaments." Working paper (with Jorge Fernandes and Bonnie M. Meguid).
 
