@@ -14,10 +14,9 @@ Weeks, Ana Catalano and Leah Ruppanner. "A Typology of US Parents' Mental Loads:
 "The Political Consequences of the Mental Load." Working paper. Revise & resubmit.      
 2023 Women, Gender, and Politics Research Section Award for best paper presented at 2022 APSA annual meeting
 
-“The New Defenders of Gender Equality? The Representation of Women's Interests in Populist Radical Right Parties.” Revise & resubmit (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé). 
+“The New Defenders of Gender Equality? The Representation of Women's Interests in Populist Radical Right Parties.” Revise & resubmit (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé).
 
-"Gender Quota Laws and Women in Cabinets." [Working paper](assets/pdf/Barnes_Venturini_Weeks_61224.pdf){:target="_blank"} (with Tiffany Barnes and Giulia Venturini).
-
+"Gender Quota Laws and Women in Cabinets." Working paper (with Tiffany Barnes and Giulia Venturini). Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577
 
 "Thinly Veiled: The Use of Femonationalist Speech in European Parliaments." Working paper (with Jorge Fernandes and Bonnie M. Meguid).
 
