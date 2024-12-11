@@ -9,14 +9,12 @@ nav_order: 4
 
 Helgøy, Anna Nordnes and Ana Catalano Weeks. "The Influence of Mental Load Priming on Men’s and Women’s Intentions to Participate in Public Life." Forthcoming, British Journal of Political Science.
 
-Weeks, Ana Catalano and Leah Ruppanner. "A Typology of US Parents' Mental Loads: Core and Episodic Cognitive Labor." Accepted, Journal of Marriage and Family.
-
 "The Political Consequences of the Mental Load." Working paper. Revise & resubmit.      
 2023 Women, Gender, and Politics Research Section Award for best paper presented at 2022 APSA annual meeting
 
 “The New Defenders of Gender Equality? The Representation of Women's Interests in Populist Radical Right Parties.” Revise & resubmit (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé).
 
-"Gender Quota Laws and Women in Cabinets." Working paper (with Tiffany Barnes and Giulia Venturini). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
+"Gender Quota Laws and Women in Cabinets." Under review (with Tiffany Barnes and Giulia Venturini). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
 
 "Thinly Veiled: The Use of Femonationalist Speech in European Parliaments." Working paper (with Jorge Fernandes and Bonnie M. Meguid).
 
