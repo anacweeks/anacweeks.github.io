@@ -8,7 +8,9 @@ nav_order: 6
 ---
 **Interviews and media coverage**
 
-Foster, Robin. U.S. News & World Report. "[Moms Take on 70% of 'Mental Load' for Household Tasks: Study](https://www.usnews.com/news/health-news/articles/2024-12-30/moms-take-on-70-of-mental-load-for-household-tasks-study)." 30 December 2024. 
+Leatham, Xantha. The Daily Mail. "[Mothers overwhelmingly carry the family's 'mental load' while fathers often take a back seat, study shows](https://www.dailymail.co.uk/news/article-14344231/Mothers-carry-familys-mental-load-fathers-seat-study-shows.html)" 30 January 2025. 
+
+Foster, Robin. U.S. News & World Report. "[Moms Take on 70% of 'Mental Load' for Household Tasks: Study](https://www.usnews.com/news/health-news/articles/2024-12-30/moms-take-on-70-of-mental-load-for-household-tasks-study)." 30 December 2024.
 
 Hinchliffe, Emma and Nina Ajemian. Fortune. "[Women carry 71% of a household’s ‘mental load’ and it can limit their participation in the workforce, new research finds](https://fortune.com/2024/12/20/women-carry-71-of-a-households-mental-load-and-it-can-limit-their-participation-in-the-workforce-new-research-finds/)." 20 December 2024.
 
