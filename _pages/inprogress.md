@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-"The Political Consequences of the Mental Load." Forthcoming, European Sociological Review. Winner, 2023 Women, Gender, and Politics Research Section Award for best paper presented at 2022 APSA annual meeting. [Link to paper](/assets/pdf/Weeks_ML_July2024.pdf){:target="_blank"}
+"The Political Consequences of the Mental Load." Forthcoming, European Sociological Review. Winner, 2023 Women, Gender, and Politics Research Section Award for best paper presented at 2022 APSA annual meeting. [Link to paper](/assets/pdf/Weeks_ESR_2025_Accepted.pdf){:target="_blank"}
 
 “The New Defenders of Gender Equality? The Representation of Women's Interests in Populist Radical Right Parties.” Revise & resubmit (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé).
 
