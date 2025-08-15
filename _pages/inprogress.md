@@ -19,4 +19,4 @@ nav_order: 4
 
 "How Can We Improve Gender Balance in Local Government? Family-Friendly Policies and Political Ambition in England." Working paper (with Louise Timlin and Anna Helgøy).
 
-"Stands for Me or Acts for Me? Trade-offs between Women’s Symbolic and Substantive Representation" In progress (with Jessica C. Smith and Jorge M. Fernandes).
+"Stands for Me or Acts for Me? Trade-offs between Women’s Symbolic and Substantive Representation." In progress (with Jessica C. Smith and Jorge M. Fernandes).
