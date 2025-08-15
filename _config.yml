@@ -311,14 +311,12 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Weeks]
-  first_name: [Ana, C.]
-
-  style: assets/styles/apsa.csl
+  style: _bibliography/apsa.csl
+  bibliography: _bibliography/papers.bib
   locale: en
+  order: descending
+  sort_by: year
 
-  source: /_bibliography/
-  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
