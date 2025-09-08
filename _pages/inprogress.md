@@ -9,7 +9,7 @@ nav_order: 4
 
 "Strategic Inclusion Without Transformation: How Populist Radical Right Parties Engage with Women’s Interests." Accepted, Comparative Political Studies (with Bonnie Meguid, Miki Kittilson, and Hilde Coffé).
 
-"Take a Load Off? Not for Mothers: Gender, Cognitive Labor, and the Limits of Time and Money." Working paper, revise & resubmit (with Helen Kowalewska and Leah Ruppanner.) SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5240237).
+"Take a Load Off? Not for Mothers: Gender, Cognitive Labor, and the Limits of Time and Money." Working paper, revise and resubmit (with Helen Kowalewska and Leah Ruppanner.) SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5240237).
 
 "Gender Quota Laws and Women in Cabinets." Working paper, under review (with Tiffany Barnes and Giulia Venturini). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
 
