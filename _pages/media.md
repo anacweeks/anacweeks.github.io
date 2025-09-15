@@ -10,7 +10,7 @@ nav_order: 6
 
 Simanson, Sarah Hunter. Los Angeles Times. "[Kids in camp? Nope. Got a summer schedule? Nope. Cue the mom guilt](https://www.latimes.com/opinion/story/2025-07-20/parenting-90s-summer-rotting)" 20 July 2025.
 
-Hoffman, Kelsie. CBS News. "[Research shows moms overwhelmingly carry the workload at home. Here's how partners can help.](https://www.cbsnews.com/news/research-moms-carry-workload-at-home-how-partners-can-help/)" 18 June 2025. 
+Hoffman, Kelsie. CBS News. "[Research shows moms overwhelmingly carry the workload at home. Here's how partners can help.](https://www.cbsnews.com/news/research-moms-carry-workload-at-home-how-partners-can-help/)" 18 June 2025.
 
 Leatham, Xantha. The Daily Mail. "[Mothers overwhelmingly carry the family's 'mental load' while fathers often take a back seat, study shows](https://www.dailymail.co.uk/news/article-14344231/Mothers-carry-familys-mental-load-fathers-seat-study-shows.html)" 30 January 2025.
 
@@ -64,4 +64,4 @@ Weeks, Ana Catalano, Bonnie M. Meguid, Miki Caul Kittilson, and Hilde Coffé. "[
 
 Weeks, Ana Catalano and Sparsha Saha. “[Shifting Norms on Gender and Leadership: Are Ambitious Women Punished in Politics?](https://blogs.lse.ac.uk/politicsandpolicy/ambitious-women-politics/)” 2020. LSE British Politics and Policy Blog. 25 September.
 
-*I also post about gender and politics at [bluesky](https://bsky.app/profile/anacweeks.bsky.social) and [LinkedIn](www.linkedin.com/in/anacatalano).*
+*I also post about gender and politics at [bluesky](https://bsky.app/profile/anacweeks.bsky.social) and [LinkedIn](https://www.linkedin.com/in/anacatalano).*
