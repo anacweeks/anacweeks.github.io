@@ -1,28 +1,15 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+# Use the GitHub Pages gem to ensure compatible Jekyll version and plugins
+gem "github-pages", group: :jekyll_plugins
+
+# Optional: additional plugins for local testing
 group :jekyll_plugins do
-    gem 'classifier-reborn'
-    gem 'jekyll'
-    gem 'jekyll-archives'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-feed'
-    gem 'jekyll-get-json'
-    gem 'jekyll-imagemagick'
-    gem 'jekyll-jupyter-notebook'
-    gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
-    gem 'jekyll-regex-replace'
-    gem 'jekyll-scholar'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-tabs'
-    gem 'jekyll-toc'
-    gem 'jekyll-twitter-plugin'
-    gem 'jemoji'
-    gem 'unicode_utils'
-    gem 'webrick'
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
-group :other_plugins do
-    gem 'css_parser'
-    gem 'feedjira'
-    gem 'httparty'
-end
+
+# Ruby version (matches your workflow)
+ruby "3.3.5"
