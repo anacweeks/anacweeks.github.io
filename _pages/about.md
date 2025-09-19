@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Ana Catalano Weeks
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
