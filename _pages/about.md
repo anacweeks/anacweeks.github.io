@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Welcome! I am a Senior Lecturer (Associate Professor) in Comparative Politics in the [Department of Politics, Languages, & International Studies](https://www.bath.ac.uk/departments/department-of-politics-languages-international-studies/) at the University of Bath. Before joining Bath, I was a College Fellow in the Department of Government at Harvard University and a Research Fellow in the Women and Public Policy Program (WAPPP) at the Harvard Kennedy School. I have a PhD in Political Science from Harvard University, an MSc in Comparative Politics (Europe) from the LSE, and an AB in Government from Dartmouth College.
