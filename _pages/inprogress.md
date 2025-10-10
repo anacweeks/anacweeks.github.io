@@ -9,7 +9,7 @@ nav_order: 4
 
 "Take a Load Off? Not for Mothers: Gender, Cognitive Labor, and the Limits of Time and Money." Forthcoming, Socius (with Helen Kowalewska and Leah Ruppanner.) SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5240237).
 
-"Gender Quota Laws and Women in Cabinets." Under review (with Tiffany Barnes and Giulia Venturini). Under review [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
+"Gender Quota Laws and Women in Cabinets." Under review (with Tiffany Barnes and Giulia Venturini). [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
 
 "Thinly Veiled: The Use of Femonationalist Speech in European Parliaments." Under review (with Jorge Fernandes and Bonnie M. Meguid). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5107245).
 
