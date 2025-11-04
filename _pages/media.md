@@ -8,6 +8,8 @@ nav_order: 6
 ---
 **Interviews and media coverage**
 
+BBC Radio Bristol morning show. [Interview with John Darvall on the mental load and politics](https://www.bbc.co.uk/sounds/play/m002lc6q). 3 November 2025. 
+
 The Last Show with David Cooper. "[Dr. Ana Catalano Weeks: Successful Women, Mental Load](https://podcasts.apple.com/ca/podcast/dr-ana-catalano-weeks-successful-women-mental-load/id1168275879?i=1000734089422)." 28 October 28 2025.
 
 Simanson, Sarah Hunter. Los Angeles Times. "[Kids in camp? Nope. Got a summer schedule? Nope. Cue the mom guilt](https://www.latimes.com/opinion/story/2025-07-20/parenting-90s-summer-rotting)" 20 July 2025.
