@@ -54,6 +54,8 @@ Proudfoot, Shannon. Macleans. [Why Male Political Leaders Pursue Gender Quota La
 
 **Blogs I've written**
 
+Ruppanner, Leah, Ana Catalano Weeks and Helen Kowalewska. "[Earning more doesn’t lighten mothers’ mental loads – they do more regardless](https://theconversation.com/earning-more-doesnt-lighten-mothers-mental-loads-they-do-more-regardless-268486)" 5 November 2025. The Conversation.
+
 Weeks, Ana Catalano. "[Do Mothers Do More of the “Mental Load”? Gender Divisions in Daily and Episodic Cognitive Household Work](https://blogs.bath.ac.uk/iprblog/2024/12/16/do-mothers-do-more-of-the-mental-load-gender-divisions-in-daily-and-episodic-cognitive-household-work/)" 2024. Bath IPR Blog.
 
 Barnes, Tiffany, Giulia Venturini and Ana Catalano Weeks. "[Gender Quota Laws Increase the Share of Women in Cabinets](https://www.genderontheballot.org/gender-quota-laws-increase-the-share-of-women-in-cabinets/)" 2024. Gender on the Ballot Blog, American University. 2 December.
