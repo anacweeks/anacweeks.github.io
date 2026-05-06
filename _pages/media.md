@@ -14,6 +14,8 @@ BBC Radio Bristol morning show. [Interview with John Darvall on the mental load 
 
 The Last Show with David Cooper. "[Dr. Ana Catalano Weeks: Successful Women, Mental Load](https://podcasts.apple.com/ca/podcast/dr-ana-catalano-weeks-successful-women-mental-load/id1168275879?i=1000734089422)." 28 October 28 2025.
 
+Ruppanner, Leah. MissPerceived Podcast. "[Why Women Tune Out Politics: The Hidden Cost of Mental Overload](https://shows.acast.com/missperceived/episodes/too-burnt-out-to-care)." 23 September 2025.
+
 Simanson, Sarah Hunter. Los Angeles Times. "[Kids in camp? Nope. Got a summer schedule? Nope. Cue the mom guilt](https://www.latimes.com/opinion/story/2025-07-20/parenting-90s-summer-rotting)" 20 July 2025.
 
 Hoffman, Kelsie. CBS News. "[Research shows moms overwhelmingly carry the workload at home. Here's how partners can help.](https://www.cbsnews.com/news/research-moms-carry-workload-at-home-how-partners-can-help/)" 18 June 2025.
