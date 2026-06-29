@@ -7,11 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-"Gender Quota Laws and Women in Cabinets." Accepted, The Journal of Politics (with Tiffany Barnes and Giulia Venturini). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046577).
-
 "Thinly Veiled: The Use of Femonationalist Speech in European Parliaments." Accepted, British Journal of Political Science (with Jorge M. Fernandes and Bonnie M. Meguid). SSRN [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5107245).
 
-"How Can We Improve Gender Balance in Local Government? Family-Friendly Policies and Political Ambition in England." Revise & resubmit (with Louise Timlin and Anna Helgøy).
+"How Can We Improve Gender Balance in Local Government? Family-Friendly Policies and Political Ambition in England." Accepted, Journal of European Public Policy (with Louise Timlin and Anna Helgøy).
 
 "The Influence of Mental Load Priming on Politicians’ Efficacy and Ambition." Working paper (with Anna Helgøy).
 
