@@ -261,7 +261,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Weeks]
-  first_name: [Ana]
+  first_name: [Ana Catalano]
 
   style: chicago-author-date
   locale: en
