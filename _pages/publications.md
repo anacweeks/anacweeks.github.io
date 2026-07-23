@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publications and research agenda reflect my interests in gender, representation, political parties, and the politics of policymaking. Some of the projects I am excited to be working on now explore women and gender in populist radical right parties, the rise of femonationalism, the impacts of gender quota laws on women's promotion to cabinets, and the political causes and consequences of the mental load (cognitive household labor).
+description: My publications and research agenda reflect my interests in gender, representation, political parties, and the politics of policymaking. Some of the projects I am excited to be working on now explore women and gender in populist radical right parties, the rise of femonationalism, the impacts of gender quota laws on women's political careers, and the political causes and consequences of the mental load (cognitive household labor). Most of the articles below are open access, or have linked .pdfs. If you can't access anything, just email me (a.c.weeks@bath.ac.uk). 
 nav: true
 nav_order: 3
 ---
