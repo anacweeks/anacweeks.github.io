@@ -263,7 +263,7 @@ scholar:
   last_name: [Weeks]
   first_name: [Ana]
 
-  style: apa
+  style: chicago-author-date
   locale: en
 
   source: /_bibliography/
