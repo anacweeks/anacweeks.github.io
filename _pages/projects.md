@@ -26,6 +26,8 @@ You can also read my interview about the book in the 2024 APSA Comparative Polit
 
 **Reviews**
 
+[Party Politics 2023](https://doi.org/10.1177/13540688231190053)
+
 [Social Forces 2023](https://doi.org/10.1093/sf/soad056)
 
 [Perspectives on Politics 2023](https://doi.org/10.1017/S1537592723000373)
