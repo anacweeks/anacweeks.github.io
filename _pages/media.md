@@ -10,6 +10,10 @@ nav_order: 6
 
 Elsesser, Kim. Forbes. "[What The Latest Research Reveals About Mothers’ Careers And Pay](https://www.forbes.com/sites/kimelsesser/2026/05/04/what-the-latest-research-reveals-about-mothers-careers-and-pay/)." 4 May 2026.
 
+Tagle, Andee and Mika Ellison. NPR. "[Want to lighten your mental load? First, let go of these gender myths](https://www.wypr.org/wypr-arts/2026-04-21/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths)" 21 April 2026.
+
+BBC Bitesize. "[What is the 'mental load' and how can parents deal with it?](https://www.bbc.co.uk/bitesize/articles/zpvgnk7)" March 2026.
+
 BBC Radio Bristol morning show. [Interview with John Darvall on the mental load and politics](https://www.bbc.co.uk/sounds/play/m002lc6q). 3 November 2025. 
 
 The Last Show with David Cooper. "[Dr. Ana Catalano Weeks: Successful Women, Mental Load](https://podcasts.apple.com/ca/podcast/dr-ana-catalano-weeks-successful-women-mental-load/id1168275879?i=1000734089422)." 28 October 28 2025.
@@ -33,6 +37,8 @@ Lacreta, Megan. Scary Mommy. "[71% Of The Household Mental Load Falls On Mom —
 CBS News Boston. "[Mothers handle more of the mental load of managing household, study says](https://www.cbsnews.com/boston/video/mothers-handle-more-of-the-mental-load-of-managing-household-study-says/)." 16 December 2024.
 
 Kaya, A. Maya. Psychology Today. "[Mental Load: The Invisible Weight of Parenthood](https://www.psychologytoday.com/gb/blog/the-compassionate-brain/202412/mental-load-the-invisible-weight-of-parenthood)." 16 December 2024.
+
+Demsas, Jerusalem. The Atlantic. "[The Myth of Female Unelectability](https://www.theatlantic.com/politics/archive/2024/08/kamala-harris-2024-comparison-hillary-clinton-2016/679343/)" 14 August 2024.
 
 Big Careers, Small Children Podcast. [Episode 168: Dr. Ana Catalano Weeks - Managing Mental Load While Balancing Career and Parenthood](https://player.captivate.fm/episode/7936fd43-640f-4fe0-9a33-95dae1cee5c3). 14 March 2024.
 
