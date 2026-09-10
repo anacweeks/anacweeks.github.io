@@ -8,6 +8,8 @@ nav_order: 6
 ---
 **Interviews and media coverage**
 
+Dean, Grace and Mallory Moench. BBC News. "[Why more women carry the 'mental load' - and how couples can share it](https://www.bbc.co.uk/news/articles/c24j1r45r49o). 6 September 2026.
+
 Elsesser, Kim. Forbes. "[What The Latest Research Reveals About Mothers’ Careers And Pay](https://www.forbes.com/sites/kimelsesser/2026/05/04/what-the-latest-research-reveals-about-mothers-careers-and-pay/)." 4 May 2026.
 
 Tagle, Andee and Mika Ellison. NPR. "[Want to lighten your mental load? First, let go of these gender myths](https://www.wypr.org/wypr-arts/2026-04-21/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths)" 21 April 2026.
