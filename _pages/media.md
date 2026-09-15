@@ -8,6 +8,8 @@ nav_order: 6
 ---
 **Interviews and media coverage**
 
+Hirst, Rose. The Spinoff. "[Can you actually outsource your mental load? I desperately tried to](https://thespinoff.co.nz/society/13-09-2026/can-you-actually-outsource-your-mental-load-i-desperately-tried-to). 13 September 2026.
+
 Dean, Grace and Mallory Moench. BBC News. "[Why more women carry the 'mental load' - and how couples can share it](https://www.bbc.co.uk/news/articles/c24j1r45r49o). 6 September 2026.
 
 Elsesser, Kim. Forbes. "[What The Latest Research Reveals About Mothers’ Careers And Pay](https://www.forbes.com/sites/kimelsesser/2026/05/04/what-the-latest-research-reveals-about-mothers-careers-and-pay/)." 4 May 2026.
