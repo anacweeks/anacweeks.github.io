@@ -7,15 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-I teach classes related to comparative politics, gender, and research methods at the University of Bath. 
+I teach classes related to comparative politics, gender, and research methods at the University of Bath. I am currently on leave from teaching as a Future Leaders Fellow. 
 
 Bath
 
-Convener, PL51030, The Politics of Gender Inequality, Fall 2020 -- present  
+Convener, PL51030, The Politics of Gender Inequality, Fall 2020 -- Spring 2026
 
-Convener, PL31012, Closing Global Gender Gaps, Spring 2020 -- present
+Convener, PL31012, Closing Global Gender Gaps, Spring 2020 -- Spring 2026
 
-Convener, PL30875: Comparative Elections & Voting, Spring 2017, Fall 2018. Lecturer, 2019 -- present
+Convener, PL30875: Comparative Elections & Voting, Spring 2017 -- Fall 2018. Lecturer, 2019 -- Spring 2026
 
 Convener, PL20878: Research Design & Methods, Fall 2018, Fall 2019
 
