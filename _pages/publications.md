@@ -113,6 +113,10 @@ nav_order: 3
 </div>
 <h2 id="other-contributions" class="research-section">Chapters and other contributions</h2>
 <div class="research-entry">
+<p>Clifton-Sprigg, Joanna, Ana Catalano Weeks, Kerry L. Papps, and Alistair Hunt. 2026. “More Time, Better Pay: What Current and Prospective Parents Want from Parental Leave.” <em>Institute for Policy Research Policy Brief</em>, University of Bath.</p>
+<p class="research-links"><a href="https://www.bath.ac.uk/publications/more-time-better-pay-what-current-and-prospective-parents-want-from-parental-leave/attachments/ipr-policy-brief-more-time-better-pay.pdf">PDF</a> · <a href="https://www.bath.ac.uk/publications/more-time-better-pay-what-current-and-prospective-parents-want-from-parental-leave/">Publication page</a></p>
+</div>
+<div class="research-entry">
 <p>Infanger, Camila and Ana Catalano Weeks. 2026. “Exporting Athena Swan? The Politics of Supporting Academic Mothers.” <em>Politics &amp; Gender</em>.</p>
 <p class="research-links"><a href="https://doi.org/10.1017/S1743923X2610083X">Published contribution</a></p>
 </div>
