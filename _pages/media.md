@@ -8,6 +8,8 @@ nav_order: 6
 ---
 **Interviews and media coverage**
 
+Delgado, Kasia. The i Paper. "[The signs you’re married to a manchild – and what to do about it](https://inews.co.uk/inews-lifestyle/signs-married-manchild-what-do-about-4845619)." 9 November 2026.
+
 Phillips, Sarah. The Guardian. "[‘Whose job is it to empty the dishwasher?’ Experts on the conversations every couple needs to have](https://www.theguardian.com/lifeandstyle/2026/sep/28/how-couples-can-divide-household-chores-mental-load)." 28 September 2026.
 
 Hirst, Rose. The Spinoff. "[Can you actually outsource your mental load? I desperately tried to](https://thespinoff.co.nz/society/13-09-2026/can-you-actually-outsource-your-mental-load-i-desperately-tried-to)." 13 September 2026.
